@@ -1,0 +1,12 @@
+{
+  "name": "element-ui-snippet",
+  "main": "./lib/element-ui-snippet",
+  "version": "0.0.0",
+  "description": "element-ui snippet",
+  "repository": "https://github.com/likegun/element-ui-snippet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
