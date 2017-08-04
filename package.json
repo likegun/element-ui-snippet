@@ -1,7 +1,7 @@
 {
   "name": "element-ui-snippet",
   "main": "./lib/element-ui-snippet",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "element-ui snippet",
   "repository": "https://github.com/likegun/element-ui-snippet",
   "license": "MIT",
